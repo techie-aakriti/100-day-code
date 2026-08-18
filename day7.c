@@ -1,1 +1,2 @@
 // File cleared
+int main()
